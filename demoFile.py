@@ -6,6 +6,6 @@ f.close()
 
 #읽기
 f = open(r"c:\\work\\test.txt","rt",encoding="uft-8")
-resurt = f.read()
-print(resurt)
+result = f.read()
+print(result)
 f.close()
